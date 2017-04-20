@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 liuyu
 Creating a new branch is quick and simple.
 branch dev
+fixed bug
